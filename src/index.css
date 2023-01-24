@@ -24,6 +24,7 @@
 
 /* LAYOUT */
 .main {
+  zoom: 60%;
   position: relative;
   width: 100rem;
   height: 60rem;
@@ -67,6 +68,7 @@
 
 .player--active {
   background-color: rgba(255, 255, 255, 0.4);
+  color: #c7365f;
 }
 .player--active .name {
   font-weight: 700;
